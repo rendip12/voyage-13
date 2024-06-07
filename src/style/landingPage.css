@@ -1,0 +1,59 @@
+.myBG {
+    height: 140vh;
+    background: url("../assets/img/landing page/bg-new.png");
+    background-size: cover;
+}
+
+
+
+.intro {
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black
+}
+
+.service {
+    background-image: url('../assets/img/landing page/bg-tr.png');
+    height: 100vh;
+    background-color: black;
+}
+
+.about {
+    
+    background-color: black;
+    background-image: url('../assets/img/landing page/bg-second-new-r.png');
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 160px;
+    padding-bottom: 240px;
+}
+
+.faq {
+    height: 140vh;
+    background: url("../assets/img/landing page/bg-third.png");
+    background-size: cover;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 15%;
+
+}
+
+.footer {
+    height: 100vh;
+    background-image: url('../assets/img/landing page/Footer.png');
+}
+
+
+
+
+
+
